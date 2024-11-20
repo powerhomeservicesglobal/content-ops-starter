@@ -53,10 +53,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ¡Descubre todos tus Beneficios Gratis!
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Sin Anuncios
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
