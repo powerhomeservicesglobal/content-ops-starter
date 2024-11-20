@@ -79,7 +79,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/Diseño sin título.png
+          url: /images/favicon.svg
           styles:
             self:
               borderRadius: x-large
