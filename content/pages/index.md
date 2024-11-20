@@ -58,10 +58,9 @@ sections:
       - type: FeaturedItem
         title: Sin Anuncios
         subtitle: Completamente Gratis y Seguro
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Para Nosotros es Muy importante que Nuestros Servicios sean Gratuitos
+          y Accesibles para Todos
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
