@@ -12,7 +12,7 @@ sections:
       ¡Disfruta de Nuestros Servicios Gratis y Sin Anuncios!
     actions:
       - label: Empezar
-        altText: ''
+        altText: Entrar a la Selección de Servicios
         url: /
         showIcon: false
         icon: arrowRight
