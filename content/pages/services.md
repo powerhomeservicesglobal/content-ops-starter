@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Gratis y Oneline
     items:
       - type: FeaturedItem
         title: 500k
