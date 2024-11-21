@@ -241,8 +241,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Más Eficiente
-    text: |
-      asE 
+    text: >+
+      <div style="text-align: center">Mayor Eficacia en Todas Nuestras
+      Plataformas y Bases de Datos Gratis Para Todos. Puedes Usarlos Gratis Con
+      la Mayor Rapidez Incluso Con Conexiones Lentas Inferiores a 25 Mbps</div>
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
