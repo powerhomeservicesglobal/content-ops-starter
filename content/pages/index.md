@@ -79,7 +79,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/favicon.svg
+          url: /images/bloqueador-de-anuncios.png
           styles:
             self:
               borderRadius: x-large
