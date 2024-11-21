@@ -21,7 +21,6 @@ sections:
           Subir Videos Gratis
         features:
           - Feature two
-          - Feature four
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
