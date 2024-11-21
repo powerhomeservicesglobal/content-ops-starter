@@ -20,7 +20,6 @@ sections:
           Descubre entre Millones de Canales y Videos. Crea tu Canal y Empieza a
           Subir Videos Gratis
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
