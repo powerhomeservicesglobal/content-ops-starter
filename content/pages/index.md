@@ -248,7 +248,7 @@ sections:
 
     media:
       title: Title of the video
-      url: ''
+      url: 'https://s7.ezgif.com/tmp/ezgif-7-1df96a8e89.gif'
       controls: false
       aspectRatio: '16:9'
       styles:
