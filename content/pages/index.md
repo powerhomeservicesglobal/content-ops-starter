@@ -45,10 +45,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    badge:
-      type: Badge
-      label: Esta es la Página web Principal
-      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Beneficios
