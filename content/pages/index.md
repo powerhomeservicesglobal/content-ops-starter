@@ -11,7 +11,7 @@ sections:
     text: |
       ¡Disfruta de Nuestros Servicios Gratis y Sin Anuncios!
     actions:
-      - label: Get started
+      - label: Empezar
         altText: ''
         url: /
         showIcon: false
