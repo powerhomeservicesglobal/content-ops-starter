@@ -134,73 +134,135 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
-    images:
-      - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
-      - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: Wellster logo
-      - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-      - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-      - type: ImageBlock
-        url: /images/contenful-logo.svg
-        altText: Contentful logo
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-    motion: move-to-left
-    colors: bg-light-fg-dark
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Powerhome Tv
+        subtitle: Proveedor de Tv
+        text: |
+          Mira Televisión Gratis en la Web o App para Tv
+        image:
+          type: ImageBlock
+          url: /images/img_20240819_211029 (1).png
+          altText: Logo de Powerhome Media
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Empezar
+            altText: Entrar a este Servicio
+            url: /services/powerhomemedia
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Plink
+        subtitle: Almacenamiento en Nube
+        text: >
+          Guarda todo lo que quieras en nuestro Almacenamiento en la Nube.
+          Completamente Gratis y Sin límite de almacenaje.
+        image:
+          type: ImageBlock
+          url: /images/inshot_20240712_2222016949110388900940108109 (1).png
+          altText: Logo de Powerhome Web
+          elementId: ''
+        actions:
+          - type: Button
+            label: Empezar
+            altText: Entrar a este Servicio
+            url: /services/powerhomeweb
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Powerhome Radio
+        subtitle: Radio Libre
+        text: |
+          Escucha Musica Actual y Otros temas de Interés en Powerhome Radio.
+        image:
+          type: ImageBlock
+          url: /images/picretouch_20240815_003204279 (1) (1).png
+          altText: Logo de PMind
+          elementId: ''
+        actions:
+          - type: Button
+            label: Empezar
+            altText: Entrar a este Servicio
+            url: /services/pmind
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
     styles:
       self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Business Consulting
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
