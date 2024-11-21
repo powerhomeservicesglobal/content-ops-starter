@@ -181,7 +181,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Plink
-        subtitle: Motor de Busqueda
+        subtitle: Almacenamiento en Nube
         text: >
           Busca lo que quieras, encuéntralo todo con Nuestro Motor de Búsqueda
           Gratuito y Compatible. Busca Imagenes, Videos etc... 
