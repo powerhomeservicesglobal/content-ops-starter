@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio | Powerhome Services
 slug: /
 sections:
   - type: GenericSection
@@ -11,18 +11,18 @@ sections:
     text: |
       ¡Disfruta de Nuestros Servicios Gratis y Sin Anuncios!
     actions:
-      - label: Get started
-        altText: ''
-        url: /
+      - label: Empezar
+        altText: Entrar a la Selección de Servicios
+        url: /services
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
+      - label: Sobre Nosotros
+        altText: Página About
+        url: /about
         showIcon: true
         icon: arrowRight
         iconPosition: right
