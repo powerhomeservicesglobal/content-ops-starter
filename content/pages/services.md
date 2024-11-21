@@ -62,7 +62,7 @@ sections:
         actions:
           - type: Button
             label: Empezar
-            altText: ''
+            altText: Entrar a este Servicio
             url: /services/powerhomeweb
             showIcon: false
             icon: arrowRight
