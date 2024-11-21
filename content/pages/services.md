@@ -93,7 +93,16 @@ sections:
           url: /images/inshot_20240831_223915032 (1) (1) (1).png
           altText: Placeholder image
           elementId: ''
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /services/pmind
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
