@@ -44,9 +44,8 @@ sections:
         title: Búsqueda
         price: Powerhome Web
         details: Motor de Busqueda
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Busca lo que necesites en nuestro Motor de Búsqueda Avanzado 
         features:
           - Feature one
           - Feature two
