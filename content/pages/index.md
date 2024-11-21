@@ -183,7 +183,7 @@ sections:
               - pr-2
               - pl-2
             margin:
-              - mt-5
+              - mt-2
               - mb-5
               - ml-5
               - mr-5
