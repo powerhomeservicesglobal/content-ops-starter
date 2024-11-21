@@ -179,7 +179,7 @@ sections:
           self:
             padding:
               - pt-2
-              - pb-5
+              - pb-2
               - pr-5
               - pl-5
             margin:
