@@ -142,7 +142,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Gratis y Oneline
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Powerhome Media
