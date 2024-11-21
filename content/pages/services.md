@@ -21,7 +21,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Diseño sin título.png
+          url: /images/cropped-p-recorte-806600794-e1725961915867 (1).png
           altText: Placeholder image
           elementId: ''
           styles:
