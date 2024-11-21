@@ -221,7 +221,7 @@ sections:
           Bard.
         image:
           type: ImageBlock
-          url: /images/inshot_20240831_223915032 (1) (1) (1).png
+          url: /images/picretouch_20240815_003204279 (1) (1).png
           altText: Logo de PMind
           elementId: ''
         actions:
