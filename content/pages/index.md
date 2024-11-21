@@ -181,7 +181,7 @@ sections:
               - pt-2
               - pb-2
               - pr-2
-              - pl-5
+              - pl-2
             margin:
               - mt-5
               - mb-5
