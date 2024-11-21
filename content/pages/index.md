@@ -22,7 +22,7 @@ sections:
         type: Button
       - label: Sobre Nosotros
         altText: Pagina About
-        url: /
+        url: /about
         showIcon: true
         icon: arrowRight
         iconPosition: right
