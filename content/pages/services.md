@@ -42,10 +42,9 @@ sections:
       - type: FeaturedItem
         title: Powerhome Web
         subtitle: Motor de Busqueda
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Busca lo que quieras, encuéntralo todo con Nuestro Motor de Búsqueda
+          Gratuito y Compatible. Busca Imagenes, Videos etc... 
         image:
           type: ImageBlock
           url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
