@@ -146,7 +146,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Powerhome Tv
-        subtitle: Alojamiento de Video Gratuito
+        subtitle: Proveedor de Tv
         text: >
           Sube y Mira Videos en Nuestro Servicio de Alojamiento de Vídeo
           Gratuito. Seguro, Sencillo y Accesible. 
