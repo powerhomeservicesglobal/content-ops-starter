@@ -328,7 +328,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: Contactanos
       color: text-primary
     colors: bg-light-fg-dark
 slug: /services
