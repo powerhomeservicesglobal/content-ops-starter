@@ -183,8 +183,8 @@ sections:
         title: Plink
         subtitle: Almacenamiento en Nube
         text: >
-          Busca lo que quieras, encuéntralo todo con Nuestro Motor de Búsqueda
-          Gratuito y Compatible. Busca Imagenes, Videos etc... 
+          Guarda todo lo que quieras en nuestro Almacenamiento en la Nube.
+          Completamente Gratis y Sin límite de almacenaje.
         image:
           type: ImageBlock
           url: /images/inshot_20240712_2222016949110388900940108109 (1).png
