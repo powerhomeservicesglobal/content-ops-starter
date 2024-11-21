@@ -161,7 +161,7 @@ sections:
           - type: Button
             label: Empezar
             altText: Entrar a este Servicio
-            url: /services/powerhomemedia
+            url: /services/powerhometv
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -194,7 +194,7 @@ sections:
           - type: Button
             label: Empezar
             altText: Entrar a este Servicio
-            url: /services/powerhomeweb
+            url: /services/plink
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -226,7 +226,7 @@ sections:
           - type: Button
             label: Empezar
             altText: Entrar a este Servicio
-            url: /services/pmind
+            url: /services/powerhomeradio
             showIcon: false
             icon: arrowRight
             iconPosition: right
