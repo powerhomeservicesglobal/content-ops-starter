@@ -90,7 +90,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/images.png
+          url: /images/verificado.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
