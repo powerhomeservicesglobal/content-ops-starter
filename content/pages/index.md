@@ -287,8 +287,9 @@ sections:
       type: TitleBlock
     subtitle: Incrementamos la Seguridad y Sencillez
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Un Servicio Diseñado Para Ser Usado Por Cualquiera. No hace Falta
+      Conocimientos ni Habilidad. Para Todo el Mundo. Compatible con Todos los
+      Idiomas y Plataformas
     actions:
       - label: Get started
         url: /
