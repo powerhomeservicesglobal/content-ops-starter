@@ -91,7 +91,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/inshot_20240831_223915032 (1) (1) (1).png
-          altText: Placeholder image
+          altText: Logo de PMind
           elementId: ''
         actions:
           - type: Button
