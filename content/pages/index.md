@@ -191,7 +191,7 @@ sections:
               - ml-5
               - mr-5
             borderWidth: 1
-            borderStyle: solid
+            borderStyle: none
       - url: /images/Diseño sin título (2).png
         altText: Sanity logo
         type: ImageBlock
