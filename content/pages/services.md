@@ -96,7 +96,7 @@ sections:
         actions:
           - type: Button
             label: Empezar
-            altText: ''
+            altText: Entrar a este Servicio
             url: /services/pmind
             showIcon: false
             icon: arrowRight
