@@ -168,7 +168,7 @@ sections:
       - url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/inshot_20240831_223915032 (1).png
         altText: Telus logo
         type: ImageBlock
       - altText: Rangle logo
