@@ -248,7 +248,7 @@ sections:
 
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://ibb.co/vwPYnmM'
       controls: false
       aspectRatio: '16:9'
       styles:
