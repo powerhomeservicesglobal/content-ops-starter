@@ -165,6 +165,9 @@ sections:
         type: ImageBlock
       - altText: Wellster logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/picretouch_20240815_003204279 (1) (1).png
+        altText: Sanity logo
       - url: /images/inshot_20240712_2222016949110388900940108109 (1).png
         altText: Vise logo
         type: ImageBlock
