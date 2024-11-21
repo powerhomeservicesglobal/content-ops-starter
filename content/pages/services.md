@@ -22,7 +22,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Diseño sin título.png
           altText: Pricing plan 1
         actions:
           - type: Button
