@@ -85,10 +85,8 @@ sections:
               borderRadius: x-large
       - title: Seguro
         subtitle: Compacto y Seguro
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          La Seguridad es Nuestra Característica Principal, Por eso 
         image:
           url: /images/verificado.png
           altText: Featured icon two
