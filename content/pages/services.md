@@ -147,9 +147,8 @@ sections:
       - type: FeaturedItem
         title: Powerhome Tv
         subtitle: Proveedor de Tv
-        text: >
-          Sube y Mira Videos en Nuestro Servicio de Alojamiento de Vídeo
-          Gratuito. Seguro, Sencillo y Accesible. 
+        text: |
+          Mira Televisión Gratis en la Web o App para Tv
         image:
           type: ImageBlock
           url: /images/img_20240819_211029 (1).png
