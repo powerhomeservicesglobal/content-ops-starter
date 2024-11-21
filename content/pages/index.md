@@ -185,6 +185,8 @@ sections:
               - pb-5
               - pr-5
               - pl-5
+            margin:
+              - mt-5
       - url: /images/Diseño sin título (2).png
         altText: Sanity logo
         type: ImageBlock
