@@ -248,7 +248,7 @@ sections:
 
     media:
       title: Title of the video
-      url: 'https://vimeo.com/1032072162/ddd97649e2?share=copy'
+      url: 'https://vimeo.com/1032072162'
       controls: false
       aspectRatio: '16:9'
       styles:
