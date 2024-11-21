@@ -21,7 +21,7 @@ sections:
         elementId: ''
         type: Button
       - label: Sobre Nosotros
-        altText: ''
+        altText: Pagina About
         url: /
         showIcon: true
         icon: arrowRight
