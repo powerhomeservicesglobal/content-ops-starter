@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Empezar
         altText: Entrar a la Selección de Servicios
-        url: /
+        url: /services
         showIcon: false
         icon: arrowRight
         iconPosition: right
