@@ -213,7 +213,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: PMind
+        title: Powerhome Radio
         subtitle: GPT AI Chat
         text: >
           Pregunta cualquier cosa en WhatsApp y en la Web completamente Gratis.
