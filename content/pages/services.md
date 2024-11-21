@@ -21,7 +21,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Diseño sin título.png
           altText: Placeholder image
           elementId: ''
           styles:
