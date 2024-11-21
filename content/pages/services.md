@@ -19,8 +19,7 @@ sections:
         description: >
           Descubre entre Millones de Canales y Videos. Crea tu Canal y Empieza a
           Subir Videos Gratis
-        features:
-          - Feature two
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
