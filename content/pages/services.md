@@ -137,7 +137,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Selecciona Un Servicio
+      text: ''
       color: text-dark
       styles:
         self:
