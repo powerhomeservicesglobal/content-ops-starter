@@ -95,7 +95,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: Get started
+            label: Empezar
             altText: ''
             url: /services/pmind
             showIcon: false
