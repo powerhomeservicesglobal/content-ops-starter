@@ -215,10 +215,8 @@ sections:
       - type: FeaturedItem
         title: Powerhome Radio
         subtitle: Radio Libre
-        text: >
-          Pregunta cualquier cosa en WhatsApp y en la Web completamente Gratis.
-          Un Modelo Avanzado de Procesamiento de Texto que utiliza Gemini y
-          Bard.
+        text: |
+          Escucha Musica Actual y Otros temas de Interés en Powerhome Radio.
         image:
           type: ImageBlock
           url: /images/picretouch_20240815_003204279 (1) (1).png
