@@ -90,7 +90,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/inshot_20240831_223915032 (1) (1) (1).png
           altText: Placeholder image
           elementId: ''
         actions: []
