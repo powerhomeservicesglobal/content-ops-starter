@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio | Powerhome Services
 slug: /
 sections:
   - type: GenericSection
