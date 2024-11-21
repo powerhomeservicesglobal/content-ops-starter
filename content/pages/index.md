@@ -175,9 +175,6 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/Diseño sin título (2).png
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/PicRetouch_20241009_215602500 (1).webp
         altText: Rangle logo
         type: ImageBlock
@@ -188,6 +185,9 @@ sections:
               - pb-5
               - pr-5
               - pl-5
+      - url: /images/Diseño sin título (2).png
+        altText: Sanity logo
+        type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
