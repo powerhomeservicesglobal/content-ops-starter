@@ -43,7 +43,7 @@ sections:
       - type: PricingPlan
         title: Búsqueda
         price: Powerhome Web
-        details: per month
+        details: Motor de Busqueda
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
