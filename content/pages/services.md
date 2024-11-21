@@ -187,7 +187,7 @@ sections:
           Gratuito y Compatible. Busca Imagenes, Videos etc... 
         image:
           type: ImageBlock
-          url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
+          url: /images/inshot_20240712_2222016949110388900940108109 (1).png
           altText: Logo de Powerhome Web
           elementId: ''
         actions:
