@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Powerhome Media
-        subtitle: Multimedia
+        subtitle: Alojamiento de Video Gratuito
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
