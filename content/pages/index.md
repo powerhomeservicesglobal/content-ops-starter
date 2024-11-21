@@ -129,7 +129,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Empezar
         altText: ''
         url: /
         showIcon: false
