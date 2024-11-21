@@ -172,8 +172,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/PicRetouch_20241009_215602500 (1).webp
-        altText: Rangle logo
+      - altText: Rangle logo
         type: ImageBlock
         styles:
           self:
