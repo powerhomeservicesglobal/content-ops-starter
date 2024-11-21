@@ -282,13 +282,14 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: Constantes Actualizaciones
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Incrementamos la Seguridad y Sencillez
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Un Servicio Diseñado Para Ser Usado Por Cualquiera. No hace Falta
+      Conocimientos ni Habilidad. Para Todo el Mundo. Compatible con Todos los
+      Idiomas y Plataformas
     actions:
       - label: Get started
         url: /
@@ -308,7 +309,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Actualizaciones
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
