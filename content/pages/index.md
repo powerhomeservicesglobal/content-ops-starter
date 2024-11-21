@@ -248,7 +248,7 @@ sections:
 
     media:
       title: Title of the video
-      url: 'https://youtu.be/ROcqQ1FeJa4'
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
