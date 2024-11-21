@@ -134,6 +134,138 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Selecciona Un Servicio
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Gratis y Oneline
+    items:
+      - type: FeaturedItem
+        title: Powerhome Media
+        subtitle: Alojamiento de Video Gratuito
+        text: >
+          Sube y Mira Videos en Nuestro Servicio de Alojamiento de Vídeo
+          Gratuito. Seguro, Sencillo y Accesible. 
+        image:
+          type: ImageBlock
+          url: /images/cropped-p-recorte-806600794-e1725961915867 (1).png
+          altText: Logo de Powerhome Media
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Empezar
+            altText: Entrar a este Servicio
+            url: /services/powerhomemedia
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Powerhome Web
+        subtitle: Motor de Busqueda
+        text: >
+          Busca lo que quieras, encuéntralo todo con Nuestro Motor de Búsqueda
+          Gratuito y Compatible. Busca Imagenes, Videos etc... 
+        image:
+          type: ImageBlock
+          url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
+          altText: Logo de Powerhome Web
+          elementId: ''
+        actions:
+          - type: Button
+            label: Empezar
+            altText: Entrar a este Servicio
+            url: /services/powerhomeweb
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: PMind
+        subtitle: GPT AI Chat
+        text: >
+          Pregunta cualquier cosa en WhatsApp y en la Web completamente Gratis.
+          Un Modelo Avanzado de Procesamiento de Texto que utiliza Gemini y
+          Bard.
+        image:
+          type: ImageBlock
+          url: /images/inshot_20240831_223915032 (1) (1) (1).png
+          altText: Logo de PMind
+          elementId: ''
+        actions:
+          - type: Button
+            label: Empezar
+            altText: Entrar a este Servicio
+            url: /services/pmind
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    badge:
+      type: Badge
+      label: Productos y Servicios
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
