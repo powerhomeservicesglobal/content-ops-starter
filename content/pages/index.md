@@ -181,6 +181,10 @@ sections:
       - url: /images/PicRetouch_20241009_215602500 (1).webp
         altText: Rangle logo
         type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-5
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
