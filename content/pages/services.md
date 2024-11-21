@@ -161,7 +161,7 @@ sections:
           - type: Button
             label: Empezar
             altText: Entrar a este Servicio
-            url: /services/powerhomemedia
+            url: /services/powerhometv
             showIcon: false
             icon: arrowRight
             iconPosition: right
