@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Multimedia
         price: Powerhome Media
-        details: No credit card required
+        details: Servicio de Alojamiento de Video Gratuito
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
