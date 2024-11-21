@@ -248,7 +248,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Productos y Servicios
+      label: ''
       color: text-primary
       styles:
         self:
