@@ -165,7 +165,7 @@ sections:
         type: ImageBlock
       - altText: Wellster logo
         type: ImageBlock
-      - url: /images/PicRetouch_20241009_215602500 (2) (1).png
+      - url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
