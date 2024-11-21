@@ -184,9 +184,9 @@ sections:
               - pl-2
             margin:
               - mt-2
-              - mb-5
-              - ml-5
-              - mr-5
+              - mb-2
+              - ml-2
+              - mr-2
             borderWidth: 1
             borderStyle: none
             borderRadius: x-small
