@@ -750,7 +750,7 @@ sections:
 seo:
   metaTitle: Inicio | Powerhome Services
   metaDescription: Página de Inicio de Powerhome Services Global
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Diseño sin título.png
   type: Seo
 type: PageLayout
 ---
