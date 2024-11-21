@@ -749,7 +749,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Inicio | Powerhome Services
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Página de Inicio de Powerhome Services Global
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
