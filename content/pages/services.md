@@ -180,7 +180,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Powerhome Web
+        title: Plink
         subtitle: Motor de Busqueda
         text: >
           Busca lo que quieras, encuéntralo todo con Nuestro Motor de Búsqueda
