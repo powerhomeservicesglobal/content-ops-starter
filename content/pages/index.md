@@ -110,10 +110,9 @@ sections:
         type: FeaturedItem
       - title: Abierto
         subtitle: De Uso Libre
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Cualquiera Puede Usar Nuestros Servicios Gratis Online, Solamente
+          debes Entrar a nuestro Catalogo [Aquí  ](/services)
         image:
           url: /images/ingresar.png
           altText: Featured icon three
