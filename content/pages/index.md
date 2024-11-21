@@ -165,10 +165,13 @@ sections:
         type: ImageBlock
       - altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - type: ImageBlock
+        url: /images/img_20240819_211029 (1).png
+        altText: Sanity logo
+      - url: /images/inshot_20240712_2222016949110388900940108109 (1).png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/inshot_20240831_223915032 (1) (1) (1).png
         altText: Telus logo
         type: ImageBlock
       - altText: Rangle logo
