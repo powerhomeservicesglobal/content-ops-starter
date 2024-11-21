@@ -84,10 +84,10 @@ sections:
       - type: FeaturedItem
         title: PMind
         subtitle: GPT AI Chat
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Pregunta cualquier cosa en WhatsApp y en la Web completamente Gratis.
+          Un Modelo Avanzado de Procesamiento de Texto que utiliza Gemini y
+          Bard.
         image:
           type: ImageBlock
           url: /images/inshot_20240831_223915032 (1) (1) (1).png
