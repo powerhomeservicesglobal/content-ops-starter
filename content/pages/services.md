@@ -15,10 +15,9 @@ sections:
       - type: FeaturedItem
         title: Powerhome Media
         subtitle: Alojamiento de Video Gratuito
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sube y Mira Videos en Nuestro Servicio de Alojamiento de Vídeo
+          Gratuito. Seguro, Sencillo y Accesible. 
         image:
           type: ImageBlock
           url: /images/cropped-p-recorte-806600794-e1725961915867 (1).png
