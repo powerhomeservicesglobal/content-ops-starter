@@ -16,9 +16,9 @@ sections:
         title: Multimedia
         price: Powerhome Media
         details: Servicio de Alojamiento de Video Gratuito
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Descubre entre Millones de Canales y Videos. Crea tu Canal y Empieza a
+          Subir Videos Gratis
         features:
           - Feature one
           - Feature two
