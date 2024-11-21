@@ -180,7 +180,7 @@ sections:
             padding:
               - pt-2
               - pb-2
-              - pr-5
+              - pr-2
               - pl-5
             margin:
               - mt-5
