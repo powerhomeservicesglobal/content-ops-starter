@@ -168,7 +168,7 @@ sections:
       - url: /images/inshot_20240831_223915032 (1) (1).png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/inshot_20240831_223915032 (1).png
+      - url: /images/inshot_20240831_223915032 (1) (1) (1).png
         altText: Telus logo
         type: ImageBlock
       - altText: Rangle logo
