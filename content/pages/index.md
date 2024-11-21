@@ -244,7 +244,8 @@ sections:
     text: >+
       <div style="text-align: center">Mayor Eficacia en Todas Nuestras
       Plataformas y Bases de Datos Gratis Para Todos. Puedes Usarlos Gratis Con
-      la Mayor Rapidez Incluso Con Conexiones Lentas Inferiores a 25 Mbps</div>
+      la Mayor Rapidez Incluso Con Conexiones Lentas Inferiores a 25
+      Mbps![](https://s7.ezgif.com/tmp/ezgif-7-1df96a8e89.gif)</div>
 
     media:
       title: Title of the video
