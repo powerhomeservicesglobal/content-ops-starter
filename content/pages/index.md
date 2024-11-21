@@ -248,7 +248,8 @@ sections:
 
     media:
       title: Title of the video
-      url: ''
+      url: >-
+        https://www.canva.com/design/DAGXI96BdIk/9Ph-lzS3ln4zoUQj9kAzQA/watch?utm_content=DAGXI96BdIk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hedb2075ad3
       controls: false
       aspectRatio: '16:9'
       styles:
