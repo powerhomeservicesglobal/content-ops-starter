@@ -59,7 +59,16 @@ sections:
           url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
           altText: Placeholder image
           elementId: ''
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /services/powerhomeweb
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
