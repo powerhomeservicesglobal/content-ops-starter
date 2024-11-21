@@ -15,7 +15,7 @@
         {
             "label": "Inicio",
             "altText": "Enlace a la Página de Inicio",
-            "url": "/blog",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
