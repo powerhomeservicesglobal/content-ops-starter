@@ -214,7 +214,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Powerhome Radio
-        subtitle: GPT AI Chat
+        subtitle: Radio Libre
         text: >
           Pregunta cualquier cosa en WhatsApp y en la Web completamente Gratis.
           Un Modelo Avanzado de Procesamiento de Texto que utiliza Gemini y
