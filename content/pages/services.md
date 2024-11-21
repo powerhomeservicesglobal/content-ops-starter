@@ -96,15 +96,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /services/powerhomemedia
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     badge:
       type: Badge
       label: Productos y Servicios
