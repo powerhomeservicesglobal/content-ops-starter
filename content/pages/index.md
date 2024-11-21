@@ -234,18 +234,15 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Aumenta la Productividad
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Más Eficiente
+    text: |
+      asE 
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -267,7 +264,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Principales Beneficios
       color: text-primary
       styles:
         self:
