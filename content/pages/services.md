@@ -48,7 +48,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
           altText: Placeholder image
           elementId: ''
         actions: []
