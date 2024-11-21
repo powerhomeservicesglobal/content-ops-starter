@@ -178,7 +178,7 @@ sections:
       - url: /images/Diseño sin título (2).png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/picretouch_20240815_003204279.png
+      - url: /images/PicRetouch_20241009_215602500 (1).webp
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
