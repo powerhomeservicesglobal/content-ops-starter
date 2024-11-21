@@ -248,8 +248,7 @@ sections:
 
     media:
       title: Title of the video
-      url: >-
-        https://www.dropbox.com/scl/fi/c21kl1fs9bm7w0a7zbfbn/befaac44f3f17c099afd6b356bcbb19a_w200.gif?rlkey=58hd8fo6gildajz0k7so2to62&st=x2j05w85&dl=0
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
