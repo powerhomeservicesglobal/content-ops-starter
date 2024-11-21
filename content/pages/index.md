@@ -30,7 +30,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Diseño sin título (5).png
+      url: /images/Diseño sin título (6).png
       altText: ''
       elementId: ''
       type: ImageBlock
