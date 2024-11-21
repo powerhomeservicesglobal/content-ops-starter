@@ -100,7 +100,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: Productos y Servicios
       color: text-primary
       styles:
         self:
