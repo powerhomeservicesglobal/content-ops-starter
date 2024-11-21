@@ -57,7 +57,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
-          altText: Placeholder image
+          altText: Logo de Powerhome Web
           elementId: ''
         actions:
           - type: Button
