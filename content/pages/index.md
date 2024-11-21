@@ -248,7 +248,7 @@ sections:
 
     media:
       title: Title of the video
-      url: 'https://s7.ezgif.com/tmp/ezgif-7-1df96a8e89.gif'
+      url: 'https://vimeo.com/1032064784?share=copy#t=0'
       controls: false
       aspectRatio: '16:9'
       styles:
