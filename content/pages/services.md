@@ -27,7 +27,7 @@ sections:
         actions:
           - type: Button
             label: Empezar
-            url: /
+            url: /services/powerhomemedia
             icon: arrowRight
             iconPosition: right
             style: secondary
