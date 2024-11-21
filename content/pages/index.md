@@ -172,9 +172,6 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
       - url: /images/PicRetouch_20241009_215602500 (1).webp
         altText: Rangle logo
         type: ImageBlock
@@ -193,6 +190,9 @@ sections:
             borderWidth: 1
             borderStyle: none
             borderRadius: x-small
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
       - url: /images/Diseño sin título (2).png
         altText: Sanity logo
         type: ImageBlock
