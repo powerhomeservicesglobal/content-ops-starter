@@ -185,6 +185,7 @@ sections:
           self:
             padding:
               - pt-5
+              - pb-5
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
