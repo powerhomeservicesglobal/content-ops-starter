@@ -47,7 +47,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:powerhome.es@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
