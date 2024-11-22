@@ -27,7 +27,7 @@
                 "altText": "Acceso a la Pagina de Selección de Servicios"
             },
             {
-                "label": "Documentation",
+                "label": "Ayuda",
                 "url": "https://help-powerhomeservices.odoo.com",
                 "icon": "arrowRight",
                 "iconPosition": "right",
