@@ -9,7 +9,7 @@
         "title": "Product",
         "links": [
             {
-                "label": "Features",
+                "label": "Sobre Nosotros",
                 "altText": "Sobre Powerhome Services",
                 "url": "/about",
                 "icon": "arrowRight",
