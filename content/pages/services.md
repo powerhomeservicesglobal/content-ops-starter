@@ -331,8 +331,8 @@ sections:
 slug: /services
 seo:
   type: Seo
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaTitle: Productos y Servicios
+  metaDescription: Esta es la Pagina Oficial de Selección de Servicios de Powerhome Services
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
