@@ -331,7 +331,7 @@ sections:
 slug: /services
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Productos y Servicios
   metaDescription: This demo site is built with Netlify Create
   socialImage: /images/main-hero.jpg
   metaTags: []
