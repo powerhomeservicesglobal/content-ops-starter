@@ -33,7 +33,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: ''
         tagline: Otros Episodios
         subtitle: Be in good company
         text: >-
