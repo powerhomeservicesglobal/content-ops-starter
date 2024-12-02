@@ -397,10 +397,11 @@ sections:
       - title: Powerhome Media
         tagline: Servicio de Alojamiento de Video
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Pueda que algunos Canales no sean Gratuitos pero Ninguna de Nuestras
+          Plataformas Tiene Anuncios ni Patrocinios en sitios que puedan
+          incomodar. No hay anuncios de pago entre Videos ni en el Feed de
+          Inicio.
         image:
           url: /images/Diseño sin título.png
           altText: John Doe
