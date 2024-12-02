@@ -369,7 +369,7 @@ sections:
     items:
       - title: Powerhome Web
         tagline: Motor de Busqueda
-        subtitle: 'Maria Walters, Company'
+        subtitle: Creada en Noviembre 2024
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
