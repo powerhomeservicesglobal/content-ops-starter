@@ -370,10 +370,9 @@ sections:
       - title: Powerhome Web
         tagline: Motor de Busqueda
         subtitle: Creada en Noviembre 2024
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Busca todo lo que Quieras sin Anuncios ni Resultados Patrocinados de
+          Ninguna Marca. Completamente Gratis y Sin Anuncios
         image:
           url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
           altText: Maria Walters
