@@ -291,7 +291,7 @@ sections:
       Conocimientos ni Habilidad. Para Todo el Mundo. Compatible con Todos los
       Idiomas y Plataformas
     actions:
-      - label: Get started
+      - label: Ver Productos y Servicios
         url: /
         icon: arrowRight
         iconPosition: right
