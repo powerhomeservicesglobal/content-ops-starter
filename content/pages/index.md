@@ -556,7 +556,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Caracteristicas Principales
       color: text-primary
       styles:
         self:
