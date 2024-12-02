@@ -367,9 +367,7 @@ sections:
     title: null
     subtitle: Nuestros Servicios y Sus Principales Caracteristicas
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: Powerhome Web
         tagline: Motor de Busqueda
         subtitle: 'Maria Walters, Company'
         text: >-
