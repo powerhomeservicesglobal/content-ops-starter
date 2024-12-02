@@ -433,7 +433,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/picretouch_20240815_003204279 (1) (1).png
+          url: /images/picretouch_20240815_003204279 (1).png
           altText: Maria Walters
           styles:
             self:
