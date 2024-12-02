@@ -377,7 +377,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
           altText: Maria Walters
           styles:
             self:
