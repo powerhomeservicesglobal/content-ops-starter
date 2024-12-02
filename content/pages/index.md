@@ -297,7 +297,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: Documentacion
+      - label: Documentación
         url: /
         showIcon: true
         icon: arrowRight
