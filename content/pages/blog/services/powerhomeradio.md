@@ -2,7 +2,6 @@
 type: PostLayout
 title: Powerhome Radio
 date: '2024-12-04'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
