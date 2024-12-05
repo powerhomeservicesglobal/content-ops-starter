@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: 'Transmisión más Reciente '
         tagline: Más Reciente
         subtitle: Increase your reach
         text: >-
