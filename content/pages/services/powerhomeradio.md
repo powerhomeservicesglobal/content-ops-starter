@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Social Media Management
-        tagline: Live1
+        tagline: Más Reciente
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
