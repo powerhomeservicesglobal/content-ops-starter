@@ -47,7 +47,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/picretouch_20240815_003204279 (1) (1).png
           altText: Business consulting
           elementId: ''
           styles:
