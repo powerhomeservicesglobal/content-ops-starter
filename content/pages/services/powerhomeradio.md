@@ -33,7 +33,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: ''
+        title: Otros Episodios
         tagline: Otros Episodios
         subtitle: Be in good company
         text: |+
