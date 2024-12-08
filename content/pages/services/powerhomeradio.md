@@ -35,7 +35,7 @@ sections:
       - type: FeaturedItem
         title: Otros Episodios
         tagline: Otros Episodios
-        subtitle: Be in good company
+        subtitle: Últimos Episodios de Powerhome Radio
         text: >+
           <iframe width="560" height="315"
           src="https\://www\.youtube.com/embed/Hqk4Pl7gbtw?si=F8p3Xshc-9-19y5v"
