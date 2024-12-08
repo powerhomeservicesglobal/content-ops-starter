@@ -36,8 +36,15 @@ sections:
         title: Otros Episodios
         tagline: Otros Episodios
         subtitle: Be in good company
-        text: |
-          <https://www.youtube.com/live/Hqk4Pl7gbtw?si=F8p3Xshc-9-19y5v>
+        text: >+
+          <iframe width="560" height="315"
+          src="https\://www\.youtube.com/embed/Hqk4Pl7gbtw?si=F8p3Xshc-9-19y5v"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
