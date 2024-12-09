@@ -291,13 +291,13 @@ sections:
       Conocimientos ni Habilidad. Para Todo el Mundo. Compatible con Todos los
       Idiomas y Plataformas
     actions:
-      - label: Get started
+      - label: Ver Productos y Servicios
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Documentación
         url: /
         showIcon: true
         icon: arrowRight
@@ -365,19 +365,16 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Nuestros Servicios y Sus Principales Caracteristicas
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Powerhome Web
+        tagline: Motor de Busqueda
+        subtitle: Creada en Noviembre 2024
+        text: >
+          Busca todo lo que Quieras sin Anuncios ni Resultados Patrocinados de
+          Ninguna Marca. Completamente Gratis y Sin Anuncios
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/PicRetouch_20241009_215602500 (2) (1) (1).png
           altText: Maria Walters
           styles:
             self:
@@ -397,17 +394,16 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
+      - title: Powerhome Media
+        tagline: Servicio de Alojamiento de Video
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Pueda que algunos Canales no sean Gratuitos pero Ninguna de Nuestras
+          Plataformas Tiene Anuncios ni Patrocinios en sitios que puedan
+          incomodar. No hay anuncios de pago entre Videos ni en el Feed de
+          Inicio.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Diseño sin título.png
           altText: John Doe
           styles:
             self:
@@ -430,14 +426,14 @@ sections:
       - title: >-
           "Design is how it works, how it functions. Good design doesn't just
           make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
+        tagline: Radio en Directo
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/picretouch_20240815_003204279 (1).png
           altText: Maria Walters
           styles:
             self:
@@ -556,13 +552,13 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Caracteristicas Principales
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Lo Mejor de Nuestros Servicios
     items:
       - title: Feature Item One
         tagline: This is the tagline
