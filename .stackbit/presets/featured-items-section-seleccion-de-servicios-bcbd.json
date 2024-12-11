@@ -1,0 +1,202 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Selección de Servicios",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Plantillas"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Selecciona Un Servicio",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "Gratis y Oneline",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Powerhome Media",
+                        "tagline": null,
+                        "subtitle": "Alojamiento de Video Gratuito",
+                        "text": "Sube y Mira Videos en Nuestro Servicio de Alojamiento de Vídeo Gratuito. Seguro, Sencillo y Accesible. \n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/cropped-p-recorte-806600794-e1725961915867 (1).png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Logo de Powerhome Media",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Empezar",
+                                "altText": "Entrar a este Servicio",
+                                "url": "/services/powerhomemedia",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "justifyContent": "center",
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Powerhome Web",
+                        "tagline": null,
+                        "subtitle": "Motor de Busqueda",
+                        "text": "Busca lo que quieras, encuéntralo todo con Nuestro Motor de Búsqueda Gratuito y Compatible. Busca Imagenes, Videos etc... \n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/PicRetouch_20241009_215602500 (2) (1) (1).png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Logo de Powerhome Web",
+                            "elementId": "",
+                            "styles": null
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Empezar",
+                                "altText": "Entrar a este Servicio",
+                                "url": "/services/powerhomeweb",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "textAlign": "left",
+                                "justifyContent": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "PMind",
+                        "tagline": null,
+                        "subtitle": "GPT AI Chat",
+                        "text": "Pregunta cualquier cosa en WhatsApp y en la Web completamente Gratis. Un Modelo Avanzado de Procesamiento de Texto que utiliza Gemini y Bard.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/inshot_20240831_223915032 (1) (1) (1).png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Logo de PMind",
+                            "elementId": "",
+                            "styles": null
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Empezar",
+                                "altText": "Entrar a este Servicio",
+                                "url": "/services/pmind",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "Productos y Servicios",
+                    "color": "text-primary",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "elementId": "",
+                "variant": "three-col-grid",
+                "colors": "bg-neutral-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pb-16",
+                            "pt-16",
+                            "pl-16",
+                            "pr-16"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-seleccion-de-servicios-bcbd.png"
+        }
+    ]
+}
