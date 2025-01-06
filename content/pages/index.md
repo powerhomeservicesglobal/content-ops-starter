@@ -161,18 +161,18 @@ sections:
   - subtitle: Nuestros Servicios
     images:
       - url: /images/cropped-p-recorte-806600794-e1725961915867 (1).png
-        altText: Empathy logo
+        altText: Powerhome Media
         type: ImageBlock
       - altText: Wellster logo
         type: ImageBlock
       - type: ImageBlock
         url: /images/img_20240819_211029 (1).png
-        altText: Sanity logo
+        altText: Powerhome Tv
       - url: /images/inshot_20240712_2222016949110388900940108109 (1).png
-        altText: Vise logo
+        altText: Plink
         type: ImageBlock
       - url: /images/inshot_20240831_223915032 (1) (1) (1).png
-        altText: Telus logo
+        altText: Pmind
         type: ImageBlock
       - altText: Rangle logo
         type: ImageBlock
@@ -194,7 +194,7 @@ sections:
       - altText: Contentful logo
         type: ImageBlock
       - url: /images/picretouch_20240815_003204279 (1) (1).png
-        altText: Sanity logo
+        altText: Powerhome Radio
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -292,18 +292,20 @@ sections:
       Idiomas y Plataformas
     actions:
       - label: Ver Productos y Servicios
-        url: /
+        url: /services
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
+        altText: Ver Productos y Servicios
       - label: Documentación
-        url: /
+        url: help-powerhomeservices.odoo.com
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
+        altText: Ayuda y Documentación de Powerhome Services
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
@@ -326,19 +328,21 @@ sections:
       A service that provides advice and guidance to startups and small
       businesses.
     actions:
-      - label: Get started
-        url: /
+      - label: Empezar
+        url: /services
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+        altText: Comenzar a seleccionar un Servicio
+      - label: Documentación
+        url: help-powerhomeservices.odoo.com/docs
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
+        altText: Ver Documentación
     media:
       url: /images/hero3.svg
       altText: Dope design preview
