@@ -329,7 +329,7 @@ sections:
       businesses.
     actions:
       - label: Empezar
-        url: /
+        url: /services
         icon: arrowRight
         iconPosition: right
         style: secondary
