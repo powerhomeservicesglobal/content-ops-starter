@@ -299,7 +299,7 @@ sections:
         type: Button
         altText: Ver Productos y Servicios
       - label: Documentación
-        url: /
+        url: help-powerhomeservices.odoo.com
         showIcon: true
         icon: arrowRight
         iconPosition: right
