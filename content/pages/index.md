@@ -336,7 +336,7 @@ sections:
         type: Button
         altText: Comenzar a seleccionar un Servicio
       - label: See Tutorials
-        url: /
+        url: help-powerhomeservices.odoo.com/docs
         showIcon: true
         icon: arrowRight
         iconPosition: right
