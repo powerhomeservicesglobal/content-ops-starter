@@ -292,7 +292,7 @@ sections:
       Idiomas y Plataformas
     actions:
       - label: Ver Productos y Servicios
-        url: /
+        url: /services
         icon: arrowRight
         iconPosition: right
         style: secondary
