@@ -297,6 +297,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: Ver Productos y Servicios
       - label: Documentación
         url: /
         showIcon: true
