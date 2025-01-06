@@ -194,7 +194,7 @@ sections:
       - altText: Contentful logo
         type: ImageBlock
       - url: /images/picretouch_20240815_003204279 (1) (1).png
-        altText: Sanity logo
+        altText: Powerhome Radio
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
