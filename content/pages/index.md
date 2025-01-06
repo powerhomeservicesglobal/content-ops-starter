@@ -169,7 +169,7 @@ sections:
         url: /images/img_20240819_211029 (1).png
         altText: Powerhome Tv
       - url: /images/inshot_20240712_2222016949110388900940108109 (1).png
-        altText: Vise logo
+        altText: Plink
         type: ImageBlock
       - url: /images/inshot_20240831_223915032 (1) (1) (1).png
         altText: Pmind
