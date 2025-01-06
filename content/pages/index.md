@@ -172,7 +172,7 @@ sections:
         altText: Vise logo
         type: ImageBlock
       - url: /images/inshot_20240831_223915032 (1) (1) (1).png
-        altText: Telus logo
+        altText: Pmind
         type: ImageBlock
       - altText: Rangle logo
         type: ImageBlock
