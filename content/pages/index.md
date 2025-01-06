@@ -334,6 +334,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: Comenzar a seleccionar un Servicio
       - label: See Tutorials
         url: /
         showIcon: true
