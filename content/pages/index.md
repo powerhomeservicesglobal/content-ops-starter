@@ -342,6 +342,7 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+        altText: Ver Documentación
     media:
       url: /images/hero3.svg
       altText: Dope design preview
