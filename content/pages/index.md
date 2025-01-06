@@ -161,7 +161,7 @@ sections:
   - subtitle: Nuestros Servicios
     images:
       - url: /images/cropped-p-recorte-806600794-e1725961915867 (1).png
-        altText: Empathy logo
+        altText: Powerhome Media
         type: ImageBlock
       - altText: Wellster logo
         type: ImageBlock
