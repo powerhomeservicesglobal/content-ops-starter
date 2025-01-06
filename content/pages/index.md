@@ -305,6 +305,7 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+        altText: Ayuda y Documentación de Powerhome Services
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
