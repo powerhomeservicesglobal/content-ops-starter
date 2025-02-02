@@ -13,7 +13,7 @@ sections:
     subtitle: Gratis y Oneline
     items:
       - type: FeaturedItem
-        title: Powerhome Media
+        title: Powerhome Tv
         subtitle: Alojamiento de Video Gratuito
         text: >
           Sube y Mira Videos en Nuestro Servicio de Alojamiento de Vídeo
